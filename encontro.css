@@ -1,0 +1,22 @@
+Body {
+    background-image: linear-gradient(to right, rgb(70, 1, 70), rgb(247, 0, 115));
+    font-family: unset;
+    align-items:center;    
+}
+
+h1 {
+    align-items: center;
+    display:flex;
+    color: black;
+    text-decoration: solid;
+}
+
+ul {
+
+    align-items: baseline;
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    color: black;
+    
+}
